@@ -1,0 +1,8 @@
+.terraform
+.env
+terraform.tfvars
+tf-digitalocean
+tf-digitalocean.pub
+*.lock.hcl
+terraform.tfvars
+*.tfstate*
